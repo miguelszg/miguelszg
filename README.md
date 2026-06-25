@@ -1,12 +1,7 @@
 <div align="center">
 
-<!-- ============ BANNER ANIMADO ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Miguel%20Salazar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IT%20%26%20Systems%20Support&descAlignY=58&descSize=18" width="100%"/>
-
-<!-- ============ TYPING ANIMATION ============ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+JavaScript+%2B+HTML%2FCSS;IT+Support+%26+Systems+Administrator;Construyendo+sitios+web+para+clientes+reales;Soporte+t%C3%A9cnico%2C+redes+y+Odoo+ERP" alt="Typing SVG" />
-</a>
+<!-- ============ BANNER ORIENTAL SAKURA (SVG propio, animado) ============ -->
+<img src="./banner-sakura.svg" width="100%" alt="Banner de perfil con tema sakura"/>
 
 </div>
 
@@ -29,8 +24,8 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=miguelszg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub de miguelszg"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelszg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=miguelszg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Estadísticas de GitHub de miguelszg"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelszg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Lenguajes más usados"/>
 
 </div>
 
@@ -75,12 +70,13 @@
 
 <br/>
 
-<!-- ============ TROFEOS (elemento gráfico extra) ============ -->
-## 🏆 Trofeos
+<!-- ============ RESUMEN (elemento gráfico extra) ============ -->
+## 🏆 Resumen
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=miguelszg&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trofeos de GitHub"/>
+<img src="https://img.shields.io/github/followers/miguelszg?label=Seguidores&style=for-the-badge&color=f9c7d4&logoColor=white" alt="Seguidores"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmiguelszg&label=Repositorios%20p%C3%BAblicos&query=public_repos&style=for-the-badge&color=f9c7d4" alt="Repositorios públicos"/>
 
 </div>
 
@@ -94,4 +90,8 @@
 </div>
 
 <!-- ============ FOOTER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+<div align="center">
+
+✨ *Gracias por visitar mi perfil* ✨
+
+</div>
