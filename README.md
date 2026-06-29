@@ -24,8 +24,8 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=miguelszg&show_icons=true&hide_border=true&cache_seconds=86400&bg_color=1a1014&title_color=f9c7d4&icon_color=f4a9bf&text_color=fdf2f5&border_color=3d1f2b" alt="Estadísticas de GitHub de miguelszg"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelszg&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&bg_color=1a1014&title_color=f9c7d4&text_color=fdf2f5&border_color=3d1f2b" alt="Lenguajes más usados"/>
+<img height="165em" src="https://custom2-topaz.vercel.app/api?username=miguelszg&show_icons=true&hide_border=true&cache_seconds=86400&bg_color=1a1014&title_color=f9c7d4&icon_color=f4a9bf&text_color=fdf2f5&border_color=3d1f2b" alt="Estadísticas de GitHub de miguelszg"/>
+<img height="165em" src="https://custom2-topaz.vercel.app/api/top-langs/?username=miguelszg&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&bg_color=1a1014&title_color=f9c7d4&text_color=fdf2f5&border_color=3d1f2b" alt="Lenguajes más usados"/>
 
 </div>
 
@@ -92,6 +92,6 @@
 <!-- ============ FOOTER ============ -->
 <div align="center">
 
-✨ *Gracias por visitar mi perfil* ✨
+✨ ✨
 
 </div>
